@@ -10,6 +10,11 @@ Many people struggle to find a reliable and easy-to-use online dictionary. Some 
 - **Word Search:** Quickly search for any English word and get its meaning.
 - **Synonyms & Antonyms:** Find similar and opposite words easily.
 - **Word Details:** See pronunciation, part of speech, and example sentences.
+- **Voice Search:** Speak words instead of typing them for hands-free searching.
+- **Smart Suggestions:** Get intelligent word suggestions as you type.
+- **Word of the Day:** Discover a new interesting word every day.
+- **Personalized Learning:** Save words to study later with our flashcard system.
+- **Word Games:** Test your vocabulary knowledge with interactive games.
 - **Responsive Design:** Works well on phones, tablets, and computers.
 - **Theme Support:** Enjoy light and dark modes for comfortable reading.
 
@@ -17,12 +22,27 @@ Many people struggle to find a reliable and easy-to-use online dictionary. Some 
 1. **Search for a Word:**
    - Type any English word in the search bar on the homepage.
    - Press Enter or click the search button to see the meaning and details.
-2. **View Synonyms and Antonyms:**
-   - After searching, scroll down to see synonyms and antonyms for the word.
-3. **Switch Theme:**
-   - Use the theme toggle button (usually at the top or in settings) to switch between light and dark modes.
-4. **Navigate the App:**
-   - Use the menu or navigation bar to explore other features or return to the homepage.
+   - Use the microphone button for voice search (speak the word clearly).
+   - Get smart suggestions as you type - click on any suggestion to search instantly.
+
+2. **Word of the Day:**
+   - Click the "Word of Day" tab to discover a new interesting word every day.
+   - Learn the meaning, pronunciation, and usage examples.
+   - Save the word to your collection for later study.
+
+3. **Save and Study Words:**
+   - Click the star icon next to any word to save it to your collection.
+   - Visit the "Saved Words" tab to review all your saved words.
+   - Click "View" to see the full definition again, or "Remove" to delete from your list.
+
+4. **Play Word Games:**
+   - Go to the "Word Game" tab to test your vocabulary knowledge.
+   - Click "Start Game" to begin guessing word meanings.
+   - Earn points for correct answers and challenge yourself to improve your score.
+
+5. **Navigate the App:**
+   - Use the tabs at the top to switch between different features.
+   - Each tab has its own unique functionality and learning tools.
 
 ## Tools and Technologies Used
 - **Next.js:** For building the web application.
