@@ -1,10 +1,10 @@
 # Redox Dictionary App
 
 ## Introduction
-Redox is a modern and easy-to-use dictionary web application. It helps users find word meanings, synonyms, and more, all in one place. The app is designed to be fast, simple, and user-friendly for everyone.
+Redox Dictionary is a modern and easy-to-use dictionary web application. It helps users find word meanings, synonyms, and more, all in one place. The app is designed to be fast, simple, and user-friendly for everyone.
 
 ## Problem It Solves
-Many people struggle to find a reliable and easy-to-use online dictionary. Some dictionary apps are slow, hard to navigate, or filled with ads. Redox solves this by providing a clean, fast, and ad-free experience for looking up words and their meanings.
+Many people struggle to find a reliable and easy-to-use online dictionary. Some dictionary apps are slow, hard to navigate, or filled with ads. Redox Dictionary solves this by providing a clean, fast, and ad-free experience for looking up words and their meanings.
 
 ## Main Features
 - **Word Search:** Quickly search for any English word and get its meaning.
@@ -62,6 +62,13 @@ Many people struggle to find a reliable and easy-to-use online dictionary. Some 
 - `lib/` - Utility functions
 - `public/` - Static files and images
 - `styles/` - Global styles
+
+
+![screenshot](/public/WhatsApp%20Image%202025-07-18%20at%2023.31.17_1603052e.jpg)
+interface of the simple dictionary app
+![screenshot](/public/WhatsApp%20Image%202025-07-18%20at%2023.32.03_9738e24e.jpg)
+interface showing the searching functionality of the app, showing the different functions
+
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
