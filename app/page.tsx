@@ -87,7 +87,7 @@ export default function DictionaryApp() {
         <div className="text-center mb-8">
           <div className="flex items-center justify-center gap-2 mb-4">
             <BookOpen className="h-8 w-8 text-blue-600" />
-            <h1 className="text-4xl font-bold text-gray-900">Dictionary</h1>
+            <h1 className="text-4xl font-bold text-gray-900">Redox Dictionary</h1>
           </div>
           <p className="text-gray-600">Discover meanings, pronunciations, and examples</p>
         </div>
